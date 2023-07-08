@@ -13,7 +13,7 @@ class Config(object):
     API_ID = "6447873"
     API_HASH = ""
     TOKEN = ""
-    OWNER_ID = "5633222043"
+    OWNER_ID = "1899543063"
     OWNER_USERNAME = "Offline_into_100"
     SUPPORT_CHAT = "SayaNeko"
     JOIN_LOGGER = ()
