@@ -35,6 +35,7 @@ from NekoRobot import (
     DONATION_LINK,
     LOGGER,
     OWNER_ID,
+    DEV_USERS,
     PORT,
     START_IMG,
     SUPPORT_CHAT,
